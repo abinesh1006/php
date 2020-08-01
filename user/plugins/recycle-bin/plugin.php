@@ -4,7 +4,7 @@ Plugin Name: Recyle Bin
 Plugin URI: http://yourls.org/
 Description:  plugin to enable recyle bin for Data Base
 Version: 0.1
-Author: Abinesh
+Author: BlueBerry Raspher
 Author URI: http://ozh.org/
 */
 
